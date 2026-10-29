@@ -1,2 +1,2 @@
 # mazeAlgorithm
-For COMP0002 coursework
+FILL THIS WITH SUMMARY LATER
